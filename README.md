@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Zubair Ahmed - aka [ahmedzbyr][website] 👋
+### Hi, I'm Zubair Ahmed.
 
 [![Website](https://img.shields.io/website?label=ahmedzbyr.gitlab.io&style=for-the-badge&url=https%3A%2F%2Fahmedzbyr.gitlab.io)](https://ahmedzbyr.gitlab.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmedzbyr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ahmedzbyr)
