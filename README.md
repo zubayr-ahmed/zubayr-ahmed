@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## I'm a Husband, Father, Engineer!! 
 
 - 🌱 I’m currently trying to learning everything 
-- 🏢 I work on automation, hadoop, bigdata
-- ⚙️ I use chef, ansible, terraform, python, ruby, bash and many more
-- ⚡ I love EV, Bikes and anything which has a Engine
+- 🏢 I work on automation, hadoop, bigdata, gcp
+- ⚙️ I use `chef`, `ansible`, `terraform`, `python`, `ruby`, `bash` and many more
+- ⚡ I love EV, Bikes and anything which has an engine
 
 ### Connect with me:
 
