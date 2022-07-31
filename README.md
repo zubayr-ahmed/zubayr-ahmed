@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/website?label=ahmedzbyr.gitlab.io&style=for-the-badge&url=https%3A%2F%2Fahmedzbyr.gitlab.io)](https://ahmedzbyr.gitlab.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmedzbyr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ahmedzbyr)
 
-## I'm a Husband, Father, Engineer!! 
-
 - 🌱 I’m currently trying to learning everything 
 - 🏢 I work on automation, hadoop, bigdata, gcp
 - ⚙️ I use `chef`, `ansible`, `terraform`, `python`, `ruby`, `bash` and many more
