@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ERROR - java heap space caused using `distcp`.](https://ahmedzbyr.gitlab.io/yarn/hadoop/distcp-large-dataset/)
-- [Long Running Jobs in `YARN` `distcp`.](https://ahmedzbyr.gitlab.io/yarn/hadoop/long-running-yarn-jobs/)
-- [Bulk Upload Hfiles `doBulkLoad` - `LoadIncrementalHfiles` failed. This is recoverable. Hbase Encryption Zone.](https://ahmedzbyr.gitlab.io/hbase/hadoop/hbase-bulk-upload/)
-- [Checking `HDFS` health using `fsck`.](https://ahmedzbyr.gitlab.io/hdfs/hadoop/hdfs-check-blocks/)
-- [HDFS Block Corrupted - `HBase Error Could not seek StoreFileScanner` `Invalid HFile block magic`](https://ahmedzbyr.gitlab.io/hbase/hdfs/hadoop/hbase-block-error/)
+- [Setting up Kerberos on a dataproc cluster.](https://ahmedzbyr.gitlab.io/gcp/dataproc-kerberos/)
+- [Setting up Scheduled dataflow backups using Batch templates.](https://ahmedzbyr.gitlab.io/gcp/cloud-scheduler-dataflow/)
+- [Setting up Postgres using Dockerfile.](https://ahmedzbyr.gitlab.io/database/postgres-dockerfile/)
+- [Setting up Postgres on Docker.](https://ahmedzbyr.gitlab.io/database/postgres-on-docker/)
+- [Python - Virtual Environment.](https://ahmedzbyr.gitlab.io/python/python-virtual-env/)
 <!-- BLOG-POST-LIST:END -->
 
 
