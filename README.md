@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating Firestore Health Checks with `Terraform` `Cloud Functions` `Cloud Monitoring`.](https://ahmedzbyr.gitlab.io/infrastructure%20as%20code/cloud%20monitoring/firestore-health-check-workflow/)
+- [Monitoring Firestore Health - A Python-Based Uptime Check](https://ahmedzbyr.gitlab.io/google%20cloud/databases/firestore-health-check/)
+- [Securely Manage Secrets with Google Cloud Secret Manager and Python](https://ahmedzbyr.gitlab.io/cloud%20computing/security/google-secret-manager/)
 - [Datastream Workflow - Cloud SQL &lpar;MySQL&rpar; to BigQuery via Cloud Auth Proxy](https://ahmedzbyr.gitlab.io/gcp/datastream-mysql-bq-proxy/)
 - [Establishing a Datastream from Cloud SQL &lpar;MySQL&rpar; to BigQuery](https://ahmedzbyr.gitlab.io/gcp/datastream-mysql-bq/)
-- [Setting Up HashiCorp Vault for Secret Management](https://ahmedzbyr.gitlab.io/gcp/vault-secret/)
-- [Data Export from Datastore and Firestore](https://ahmedzbyr.gitlab.io/gcp/firestore-export/)
-- [Firestore Native Mode - Point in Time Recovery &lpar;PITR&rpar;](https://ahmedzbyr.gitlab.io/gcp/firestore-native-pitr/)
 <!-- BLOG-POST-LIST:END -->
 
 
