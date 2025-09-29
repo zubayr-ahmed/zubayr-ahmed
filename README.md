@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Your Infrastructure Code - A Guide to Terratest on GCP](https://ahmedzbyr.gitlab.io/infrastructure%20as%20code/cloud%20computing/iac-testing-terratest/)
+- [Automating Secret Management with Secret Manager and Cloud Build](https://ahmedzbyr.gitlab.io/cloud%20computing/devops/security-cloud-build/)
+- [Terraform vs Pulumi vs Cloud Deployment Manager - Choosing Your GCP IaC Tool](https://ahmedzbyr.gitlab.io/cloud%20computing/infrastructure%20as%20code/compare-iac/)
 - [Automating Firestore Health Checks with `Terraform` `Cloud Functions` `Cloud Monitoring`.](https://ahmedzbyr.gitlab.io/infrastructure%20as%20code/cloud%20monitoring/firestore-health-check-workflow/)
 - [Monitoring Firestore Health - A Python-Based Uptime Check](https://ahmedzbyr.gitlab.io/google%20cloud/databases/firestore-health-check/)
-- [Securely Manage Secrets with Google Cloud Secret Manager and Python](https://ahmedzbyr.gitlab.io/cloud%20computing/security/google-secret-manager/)
-- [Datastream Workflow - Cloud SQL &lpar;MySQL&rpar; to BigQuery via Cloud Auth Proxy](https://ahmedzbyr.gitlab.io/gcp/datastream-mysql-bq-proxy/)
-- [Establishing a Datastream from Cloud SQL &lpar;MySQL&rpar; to BigQuery](https://ahmedzbyr.gitlab.io/gcp/datastream-mysql-bq/)
 <!-- BLOG-POST-LIST:END -->
 
 
