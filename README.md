@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating an Ansible Collection - A Detailed Step-by-Step Guide](https://ahmedzbyr.gitlab.io/ansible/automation/create-ansible-collection/)
 - [Setting Up Port Forwarding in VirtualBox for Enhanced Network Performance](https://ahmedzbyr.gitlab.io/virtualization/networking/setting-port-fwding-virtualbox/)
 - [Ansible 101- Your First Playbook to Automate Web Server Setup](https://ahmedzbyr.gitlab.io/automation/devops/ansible-101-getting-started/)
 - [Testing Your Infrastructure Code - A Guide to Terratest on GCP](https://ahmedzbyr.gitlab.io/infrastructure%20as%20code/cloud%20computing/iac-testing-terratest/)
 - [Automating Secret Management with Secret Manager and Cloud Build](https://ahmedzbyr.gitlab.io/cloud%20computing/devops/security-cloud-build/)
-- [Terraform vs Pulumi vs Cloud Deployment Manager - Choosing Your GCP IaC Tool](https://ahmedzbyr.gitlab.io/cloud%20computing/infrastructure%20as%20code/compare-iac/)
 <!-- BLOG-POST-LIST:END -->
 
 
