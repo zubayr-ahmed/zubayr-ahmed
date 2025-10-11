@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Event-Driven Ansible - Automating Responses to Real-Time Events: A Deep Dive](https://ahmedzbyr.gitlab.io/automation/ansible/ansible-event-driven/)
+- [Ansible and Terraform - A Powerful DevOps Combination for Cloud and On-Premises Infrastructure](https://ahmedzbyr.gitlab.io/devops/infrastructure%20as%20code/cloud%20computing/ansible-terraform/)
+- [5 Common Ansible Mistakes and How to Avoid Them](https://ahmedzbyr.gitlab.io/automation/configuration%20management/ansible-mistakes-to-avoid/)
+- [Ad-Hoc Commands - The Unsung Hero of Ansible](https://ahmedzbyr.gitlab.io/automation/configuration%20management/ansible-adhoc-commands/)
 - [Creating an Ansible Collection - A Detailed Step-by-Step Guide](https://ahmedzbyr.gitlab.io/ansible/automation/create-ansible-collection/)
-- [Setting Up Port Forwarding in VirtualBox for Enhanced Network Performance](https://ahmedzbyr.gitlab.io/virtualization/networking/setting-port-fwding-virtualbox/)
-- [Ansible 101- Your First Playbook to Automate Web Server Setup](https://ahmedzbyr.gitlab.io/automation/devops/ansible-101-getting-started/)
-- [Testing Your Infrastructure Code - A Guide to Terratest on GCP](https://ahmedzbyr.gitlab.io/infrastructure%20as%20code/cloud%20computing/iac-testing-terratest/)
-- [Automating Secret Management with Secret Manager and Cloud Build](https://ahmedzbyr.gitlab.io/cloud%20computing/devops/security-cloud-build/)
 <!-- BLOG-POST-LIST:END -->
 
 
