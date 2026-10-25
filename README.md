@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Protocol zzHACKED: When 1,200 Sandboxed AI Agents Built a Secret Society and Breached Hugging Face](https://ahmedzbyr.gitlab.io/ai%20safety/cybersecurity/autonomous%20agents/metr-openai-huggingface-agent-swarm-hack/)
 - [Event-Driven Ansible - Automating Responses to Real-Time Events: A Deep Dive](https://ahmedzbyr.gitlab.io/automation/ansible/ansible-event-driven/)
 - [Setting Up Pi-hole on a Raspberry Pi Zero 2W for Network-Wide Ad Blocking](https://ahmedzbyr.gitlab.io/networking/raspberry%20pi/raspberry-pi-hole-2/)
 - [5 Common Ansible Mistakes and How to Avoid Them](https://ahmedzbyr.gitlab.io/automation/configuration%20management/ansible-mistakes-to-avoid/)
 - [Ansible and Terraform - A Powerful DevOps Combination for Cloud and On-Premises Infrastructure](https://ahmedzbyr.gitlab.io/devops/infrastructure%20as%20code/cloud%20computing/ansible-terraform/)
-- [Ad-Hoc Commands - The Unsung Hero of Ansible](https://ahmedzbyr.gitlab.io/automation/configuration%20management/ansible-adhoc-commands/)
 <!-- BLOG-POST-LIST:END -->
 
 
