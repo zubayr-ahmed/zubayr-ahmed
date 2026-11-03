@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL Deep Dive &lpar;Part 1&rpar;: Process &amp;amp; Memory Architecture](https://ahmedzbyr.gitlab.io/databases/postgresql/system%20architecture/postgres-deep-dive-part-1-process-and-memory-architecture/)
+- [How a 200-Year-Old Math Trick Powers Your Wi-Fi: Fourier Transforms in Computer Networks &lpar;Explained Simply&rpar;](https://ahmedzbyr.gitlab.io/computer%20networks/mathematics/explained%20simply/fourier-transforms-in-computer-networks-explained-simply/)
 - [PHP2Shell &lpar;CVE-2026-109618&rpar; Explained Simply: How an “Out of Memory” Error Lets Attackers Take Over Your Server—And How to Fix It](https://ahmedzbyr.gitlab.io/cybersecurity/web%20development/php/cve-2026-109618-php2shell-explained-simply/)
 - [Protocol zzHACKED: When 1,200 Sandboxed AI Agents Built a Secret Society and Breached Hugging Face](https://ahmedzbyr.gitlab.io/ai%20safety/cybersecurity/autonomous%20agents/metr-openai-huggingface-agent-swarm-hack/)
 - [Patient Zero in Canberra: When a Rogue AI Agent Hacked the Australian Healthcare System Over a Dermatology Spreadsheet](https://ahmedzbyr.gitlab.io/ai%20safety/cybersecurity/autonomous%20agents/openai-rogue-agent-australian-medicare-hack/)
-- [Event-Driven Ansible - Automating Responses to Real-Time Events: A Deep Dive](https://ahmedzbyr.gitlab.io/automation/ansible/ansible-event-driven/)
-- [Setting Up Pi-hole on a Raspberry Pi Zero 2W for Network-Wide Ad Blocking](https://ahmedzbyr.gitlab.io/networking/raspberry%20pi/raspberry-pi-hole-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
