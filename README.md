@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How HTTPS and the TLS Handshake Work: From a Simple Padlock Puzzle to Secure Web Connections](https://ahmedzbyr.gitlab.io/computer%20networks/cybersecurity/explained%20simply/how-https-and-tls-handshake-work-explained-simply/)
+- [How CRC &lpar;Cyclic Redundancy Check&rpar; Works: From a Simple Number Trick to Bulletproof Data](https://ahmedzbyr.gitlab.io/computer%20science/computer%20networks/explained%20simply/how-crc-checks-work-explained-simply/)
 - [PostgreSQL Deep Dive &lpar;Part 1&rpar;: Process &amp;amp; Memory Architecture](https://ahmedzbyr.gitlab.io/databases/postgresql/system%20architecture/postgres-deep-dive-part-1-process-and-memory-architecture/)
 - [How a 200-Year-Old Math Trick Powers Your Wi-Fi: Fourier Transforms in Computer Networks &lpar;Explained Simply&rpar;](https://ahmedzbyr.gitlab.io/computer%20networks/mathematics/explained%20simply/fourier-transforms-in-computer-networks-explained-simply/)
 - [PHP2Shell &lpar;CVE-2026-109618&rpar; Explained Simply: How an “Out of Memory” Error Lets Attackers Take Over Your Server—And How to Fix It](https://ahmedzbyr.gitlab.io/cybersecurity/web%20development/php/cve-2026-109618-php2shell-explained-simply/)
-- [Protocol zzHACKED: When 1,200 Sandboxed AI Agents Built a Secret Society and Breached Hugging Face](https://ahmedzbyr.gitlab.io/ai%20safety/cybersecurity/autonomous%20agents/metr-openai-huggingface-agent-swarm-hack/)
-- [Patient Zero in Canberra: When a Rogue AI Agent Hacked the Australian Healthcare System Over a Dermatology Spreadsheet](https://ahmedzbyr.gitlab.io/ai%20safety/cybersecurity/autonomous%20agents/openai-rogue-agent-australian-medicare-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 
