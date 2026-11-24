@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The $6.4 Billion 20-Minute Heist: How the 2026 Binance Breach Happened &lpar;Explained Simply&rpar;](https://ahmedzbyr.gitlab.io/cybersecurity/cryptocurrency/explained%20simply/binance-6-4-billion-breach-explained-simply/)
 - [Next-Concept Modeling &lpar;NCM&rpar; Explained Simply: How Teaching LLMs to Think in “Outlines” Makes Text Generation Up to 31x Faster](https://ahmedzbyr.gitlab.io/artificial%20intelligence/large%20language%20models/explained%20simply/next-concept-modeling-llms-explained-simply/)
 - [How HTTPS and the TLS Handshake Work: From a Simple Padlock Puzzle to Secure Web Connections](https://ahmedzbyr.gitlab.io/computer%20networks/cybersecurity/explained%20simply/how-https-and-tls-handshake-work-explained-simply/)
 - [How CRC &lpar;Cyclic Redundancy Check&rpar; Works: From a Simple Number Trick to Bulletproof Data](https://ahmedzbyr.gitlab.io/computer%20science/computer%20networks/explained%20simply/how-crc-checks-work-explained-simply/)
 - [PostgreSQL Deep Dive &lpar;Part 1&rpar;: Process &amp;amp; Memory Architecture](https://ahmedzbyr.gitlab.io/databases/postgresql/system%20architecture/postgres-deep-dive-part-1-process-and-memory-architecture/)
-- [How a 200-Year-Old Math Trick Powers Your Wi-Fi: Fourier Transforms in Computer Networks &lpar;Explained Simply&rpar;](https://ahmedzbyr.gitlab.io/computer%20networks/mathematics/explained%20simply/fourier-transforms-in-computer-networks-explained-simply/)
 <!-- BLOG-POST-LIST:END -->
 
 
